@@ -1,0 +1,8 @@
+x = 19
+y = 53
+ 
+
+x, y = y, x
+ 
+print("Value of x:", x)
+print("Value of y:", y)
